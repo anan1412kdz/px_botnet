@@ -1,5 +1,5 @@
 <h1 align="center">
-	P&X - BOTNET
+   BOTNET
 </h1>
 
 <p align="center">
@@ -106,12 +106,5 @@ Bot: Execute the binaries on the computer of the victim
 
 ## (づ｡◕‿‿◕｡)づ :
 ```
- ██▓███        ▒██   ██▒
-▓██░  ██▒      ▒▒ █ █ ▒░
-▓██░ ██▓▒      ░░  █   ░
-▒██▄█▓▒ ▒       ░ █ █ ▒ 
-▒██▒ ░  ░      ▒██▒ ▒██▒
-▒▓▒░ ░  ░      ▒▒ ░ ░▓ ░
-░▒ ░           ░░   ░▒ ░
-░░              ░    ░  
+
 ```
